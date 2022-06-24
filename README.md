@@ -43,4 +43,5 @@ The source code of the bootstrap application in the _/src_ folder.
 
 ## Technology Stack
 .NET 6
+
 Windows Forms
